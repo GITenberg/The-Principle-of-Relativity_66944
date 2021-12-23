@@ -1,0 +1,33 @@
+_repo: The-Principle-of-Relativity_66944
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Saha, Meghnad N.
+    gutenberg_agent_id: '54042'
+    url: http://www.gutenberg.org/2009/agents/54042
+  - agent_name: Bose, Satyendra N.
+    gutenberg_agent_id: '54043'
+    url: http://www.gutenberg.org/2009/agents/54043
+creator:
+  authors:
+  - agent_name: Minkowski, Hermann
+    gutenberg_agent_id: '54041'
+    url: http://www.gutenberg.org/2009/agents/54041
+  - agent_name: Einstein, Albert
+    birthdate: 1879
+    deathdate: 1955
+    gutenberg_agent_id: '1630'
+    url: http://www.gutenberg.org/2009/agents/1630
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Einstein
+description: ''
+gutenberg_issued: '2021-12-14'
+identifiers:
+  gutenberg: '66944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Principle of Relativity
+url: http://www.gutenberg.org/ebooks/66944
