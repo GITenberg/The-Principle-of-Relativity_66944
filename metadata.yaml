@@ -8,6 +8,9 @@ contributor:
   - agent_name: Bose, Satyendra N.
     gutenberg_agent_id: '54043'
     url: http://www.gutenberg.org/2009/agents/54043
+covers:
+- cover_type: archival
+  image_path: 66944-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Minkowski, Hermann
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1630
     wikipedia: https://en.wikipedia.org/wiki/Albert_Einstein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66944#The-Principle-of-Relativity
 gutenberg_issued: '2021-12-14'
 identifiers:
   gutenberg: '66944'
